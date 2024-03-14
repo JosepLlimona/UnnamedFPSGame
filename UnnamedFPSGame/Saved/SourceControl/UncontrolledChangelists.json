@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/PlayerStart_Blueprint.uasset",
+				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SK/ZO79DEJ60P5IT7M5KMX944.uasset"
+			]
+		}
+	]
+}
