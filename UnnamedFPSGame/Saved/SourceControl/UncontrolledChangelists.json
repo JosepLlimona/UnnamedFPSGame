@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/Enemies/BP_Enemy.uasset",
+				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/77/90BJMI622QN8WEK7FSPEVR.uasset",
+				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/05/507YTQB1EFWFQXX23I95YO.uasset",
+				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/H1/YV55XZI86ESLDAOF0V1NZZ.uasset",
+				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/PlayerStart_Blueprint.uasset",
 				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SK/ZO79DEJ60P5IT7M5KMX944.uasset",
@@ -39,8 +47,6 @@
 				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPersonArms/Personatge/FPSArms_Skeleton.uasset",
 				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPersonArms/Personatge/FPSArms_PhysicsAsset.uasset",
 				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPersonArms/Personatge/FPSArms.uasset",
-				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPerson/Blueprints/Pistol.uasset",
-				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPerson/Blueprints/Weapons.uasset",
 				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/Pickups/Ammo2.uasset",
 				"C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/Map/Forest/M_ForestLandsacpe.uasset",
@@ -76,13 +82,6 @@
 				"C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/Megascans/Surfaces/Forest_Floor_wgyhdgy/T_ForestFloor_wgyhdgy_2K_ORDp.uasset",
 				"C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/Megascans/Surfaces/Forest_Floor_wgyhdgy/T_Forest_Floor_wgyhdgy_2K_N.uasset",
 				"C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/Megascans/Surfaces/Forest_Floor_wgyhdgy/MI_Forest_Floor_wgyhdgy_2K.uasset",
-				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/Enemies/BP_Enemy.uasset",
-				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/77/90BJMI622QN8WEK7FSPEVR.uasset",
-				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/05/507YTQB1EFWFQXX23I95YO.uasset",
-				"C:/Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/H1/YV55XZI86ESLDAOF0V1NZZ.uasset",
 				"C:/Users/Josep/Documents/GitHub/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset"
 			]
 		}
