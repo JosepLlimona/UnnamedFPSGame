@@ -1714,3 +1714,156 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.19-17.47.48:503][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2024.04.19-17.47.48:513][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
 [2024.04.19-17.47.48:666][141]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.19-17.52.07:418][ 56]LogDerivedDataCache: C:/Users/jaume/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.253 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1351 files in 2268 folders with total size 180 MiB.
+[2024.04.19-17.52.48:362][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.04.19-17.52.48:368][178]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/H1/YV55XZI86ESLDAOF0V1NZZ_Auto6
+[2024.04.19-17.52.48:369][178]LogSavePackage: Moving '../../../../../../Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Saved/YV55XZI86ESLDAOF0V1NZZ_Auto63E764EE04C9ED9AC92609FBB8405A8CD.tmp' to '../../../../../../Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/H1/YV55XZI86ESLDAOF0V1NZZ_Auto6.uasset'
+[2024.04.19-17.52.48:371][178]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.032
+[2024.04.19-17.52.48:371][178]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2024.04.19-18.07.32:630][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.19-18.07.37:962][869]LogSlate: Window 'Save Content' being destroyed
+[2024.04.19-18.07.38:010][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-18.07.38:083][869]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/H1/YV55XZI86ESLDAOF0V1NZZ
+[2024.04.19-18.07.38:085][869]LogSavePackage: Moving '../../../../../../Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Saved/YV55XZI86ESLDAOF0V1NZZA98860704390567905E1B996FFA94BCE.tmp' to '../../../../../../Users/jaume/OneDrive/Documentos/UNI/Programacio 2D 2.5D/Treball Grup/UnnamedFPSGame/UnnamedFPSGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/H1/YV55XZI86ESLDAOF0V1NZZ.uasset'
+[2024.04.19-18.07.38:135][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 734 ms)
+[2024.04.19-18.07.38:137][869]LogStall: Shutdown...
+[2024.04.19-18.07.38:144][869]LogStall: Shutdown complete.
+[2024.04.19-18.07.38:260][869]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.38:260][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.07.38:427][869]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.19-18.07.38:427][869]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.38:427][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.07.38:534][869]LogSlate: Window 'UnnamedFPSGame - Unreal Editor' being destroyed
+[2024.04.19-18.07.38:724][869]AssetCheck: New page: Asset Save: BP_Enemy_C_UAID_8C8CAADF6234A5E201_2112959924
+[2024.04.19-18.07.38:724][869]LogContentValidation: Display: Validating /Game/Enemies/BP_Enemy.BP_Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Enemy_C_UAID_8C8CAADF6234A5E201_2112959924
+[2024.04.19-18.07.38:728][870]Cmd: QUIT_EDITOR
+[2024.04.19-18.07.38:728][870]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.19-18.07.38:737][870]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.19-18.07.38:739][870]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.19-18.07.38:739][870]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.19-18.07.38:751][870]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.38:752][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-18.07.38:756][870]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.04.19-18.07.38:800][870]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.19-18.07.39:510][870]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.19-18.07.39:510][870]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.19-18.07.39:510][870]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2024.04.19-18.07.39:510][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.19-18.07.39:511][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.19-18.07.39:516][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.19-18.07.39:537][870]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.19-18.07.39:540][870]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2024.04.19-18.07.39:555][870]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.04.19-18.07.39:556][870]LogExit: Preparing to exit.
+[2024.04.19-18.07.39:649][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2024.04.19-18.07.39:670][870]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:670][870]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:678][870]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:680][870]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:680][870]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:681][870]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:681][870]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:681][870]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:681][870]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:681][870]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:681][870]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:681][870]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:682][870]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:682][870]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:682][870]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:682][870]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:682][870]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:682][870]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:683][870]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.39:683][870]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.19-18.07.40:989][870]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.40:991][870]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.40:993][870]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.40:995][870]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.40:998][870]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.41:000][870]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.41:002][870]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.19-18.07.41:002][870]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.19-18.07.41:002][870]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.19-18.07.41:002][870]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.19-18.07.41:002][870]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.19-18.07.41:002][870]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.19-18.07.41:002][870]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.19-18.07.41:002][870]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-18.07.41:344][870]LogExit: Editor shut down
+[2024.04.19-18.07.41:364][870]LogExit: Transaction tracking system shut down
+[2024.04.19-18.07.41:435][870]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.04.19-18.07.42:250][870]LogExit: Object subsystem successfully closed.
+[2024.04.19-18.07.42:268][870]LogShaderCompilers: Display: ================================================
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Total job queries 3710, among them cache hits 11 (0.30%)
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Tracking 3695 distinct input hashes that result in 2654 distinct outputs (71.83%)
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: RAM used: 68,22 MiB of 819,20 MiB budget. Usage: 8.33%
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Shaders Compiled: 3695
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Jobs assigned 3695, completed 3695 (100%)
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Average time worker was idle: 59.56 s
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Time job spent in pending queue: average 159.47 s, longest 331.95 s
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Job execution time: average 8.19 s, max 36.67 s
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Job life time (pending + execution): average 167.66 s, max 340.15
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Shader code size: average 38,231 KiB, min 2,086 KiB, max 162,84 KiB
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 365.99 s
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Jobs were issued in 464 batches (only local compilation was used), average 7.96 jobs/batch
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Average processing rate: 10.10 jobs/sec
+[2024.04.19-18.07.42:269][870]LogShaderCompilers: Display: Total thread time: 3125,821 s
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display: Total thread preprocess time: 207,436 s
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display: Percentage time preprocessing: 6.64%
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display: Effective parallelization: 8.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 13.44 sec, max 22.23 sec, min 3.06 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 8.47 sec, max 10.22 sec, min 6.49 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 3.49 sec, max 7.15 sec, min 2.09 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  134 times, average 2.74 sec, max 9.13 sec, min 2.19 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled   12 times, average 2.40 sec, max 4.86 sec, min 0.20 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.74% of total time (compiled  134 times, average 2.74 sec, max 9.13 sec, min 2.19 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.47% of total time (compiled   96 times, average 1.78 sec, max 3.70 sec, min 1.17 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.45% of total time (compiled   96 times, average 1.45 sec, max 2.30 sec, min 0.40 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                                     FReflectionTraceVoxelsCS - 4.30% of total time (compiled   96 times, average 1.40 sec, max 9.46 sec, min 0.50 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.17% of total time (compiled  128 times, average 1.02 sec, max 2.19 sec, min 0.33 sec)
+[2024.04.19-18.07.42:270][870]LogShaderCompilers: Display: ================================================
+[2024.04.19-18.07.42:375][870]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.04.19-18.07.42:947][870]LogVirtualization: UE::Virtualization was shutdown
+[2024.04.19-18.07.43:271][870]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1054)
+[2024.04.19-18.07.43:271][870]LogModuleManager: Shutting down and abandoning module Voice (1052)
+[2024.04.19-18.07.43:271][870]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2024.04.19-18.07.43:272][870]LogModuleManager: Shutting down and abandoning module AddContentDialog (1048)
+[2024.04.19-18.07.43:288][870]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1047)
+[2024.04.19-18.07.43:288][870]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1044)
+[2024.04.19-18.07.43:288][870]LogModuleManager: Shutting down and abandoning module SceneOutliner (1042)
+[2024.04.19-18.07.43:288][870]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2024.04.19-18.07.43:288][870]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2024.04.19-18.07.43:288][870]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2024.04.19-18.07.43:289][870]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1034)
+[2024.04.19-18.07.43:289][870]LogModuleManager: Shutting down and abandoning module StatsViewer (1032)
+[2024.04.19-18.07.43:289][870]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.04.19-18.07.43:289][870]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.04.19-18.07.43:290][870]LogModuleManager: Shutting down and abandoning module SmartSnapping (1026)
+[2024.04.19-18.07.43:290][870]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1024)
+[2024.04.19-18.07.43:291][870]LogModuleManager: Shutting down and abandoning module BspMode (1022)
+[2024.04.19-18.07.43:293][870]LogModuleManager: Shutting down and abandoning module GeometryMode (1020)
+[2024.04.19-18.07.43:293][870]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1018)
+[2024.04.19-18.07.43:294][870]LogModuleManager: Shutting down and abandoning module IKRigEditor (1016)
+[2024.04.19-18.07.43:295][870]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1014)
+[2024.04.19-18.07.43:302][870]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1012)
+[2024.04.19-18.07.43:302][870]LogModuleManager: Shutting down and abandoning module RigVMEditor (1010)
+[2024.04.19-18.07.43:303][870]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1008)
+[2024.04.19-18.07.43:303][870]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1006)
+[2024.04.19-18.07.43:303][870]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1004)
+[2024.04.19-18.07.43:303][870]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1002)
+[2024.04.19-18.07.43:303][870]LogModuleManager: Shutting down and abandoning module PlanarCut (1000)
+[2024.04.19-18.07.43:303][870]LogModuleManager: Shutting down and abandoning module FractureEngine (998)
+[2024.04.19-18.07.43:303][870]LogModuleManager: Shutting down and abandoning module CharacterAI (996)
+[2024.04.19-18.07.43:304][870]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (994)
+[2024.04.19-18.07.43:304][870]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (992)
+[2024.04.19-18.07.43:304][870]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (990)
+[2024.04.19-18.07.43:305][870]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (988)
+[2024.04.19-18.07.43:306][870]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (986)
+[2024.04.19-18.07.43:306][870]LogModuleManager: Shutting down and abandoning module WebMMedia (984)
+[2024.04.19-18.07.43:306][870]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (982)
+[2024.04.19-18.07.43:306][870]LogModuleManager: Shutting down and abandoning module LevelSequenceEdit
