@@ -1,0 +1,47 @@
+[0521/142936.796:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0521/142936.796:ERROR:entry_impl.cc(1075)] No file for c1030002
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:ERROR:entry_impl.cc(1075)] No file for c1030000
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:ERROR:entry_impl.cc(1075)] No file for c1030004
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142936.796:WARNING:storage_block-inl.h(146)] Failed data load.
+[0521/142939.860:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0521/143046.051:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0521/143046.060:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0521/143047.202:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0521/143047.208:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0521/143136.532:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0521/143202.787:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0521/143202.795:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0521/143203.986:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0521/143203.992:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0521/143842.105:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143842.114:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143910.362:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143910.388:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143914.189:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143914.202:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143915.364:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143915.405:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143918.212:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143918.226:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143919.192:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143919.208:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143920.367:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143920.416:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143922.221:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143922.230:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143923.215:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143923.242:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143924.196:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143924.220:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143925.369:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0521/143925.425:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
