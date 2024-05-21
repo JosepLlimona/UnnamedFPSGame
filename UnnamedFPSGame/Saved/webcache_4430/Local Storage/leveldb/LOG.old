@@ -1,2 +1,6 @@
-2024/04/04-17:59:15.584 4a58 Creating DB C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/04/04-17:59:15.596 4a58 Reusing MANIFEST C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/04-21:18:04.712 54d8 Reusing MANIFEST C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/04-21:18:04.713 54d8 Recovering log #3
+2024/04/04-21:18:04.714 54d8 Reusing old log C:/Users/manue/OneDrive/Documentos/GitHub/UnnamedFPSGame/UnnamedFPSGame/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/04/04-21:30:51.587 3fe8 Level-0 table #5: started
+2024/04/04-21:30:51.592 3fe8 Level-0 table #5: 16855 bytes OK
+2024/04/04-21:30:51.594 3fe8 Delete type=0 #3
